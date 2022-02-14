@@ -1,0 +1,23 @@
+.caixa1, .caixa2, .caixa3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 50vw;
+    height: 30vh;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+
+.caixa1{
+    background-color: red;
+}
+
+.caixa2{
+    background-color: blue;
+}
+
+.caixa3{
+    background-color: green;
+
+}

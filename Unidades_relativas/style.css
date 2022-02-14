@@ -1,0 +1,13 @@
+body{
+    width: 50vw;
+  }
+  .box_1 {
+    background-color: green;
+    height: 50%;
+    width: 50%;
+  }
+  .box_2 {
+    background-color: green;
+    height: 50vh;
+    width: 50vw;
+  }

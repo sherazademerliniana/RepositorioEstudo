@@ -1,0 +1,38 @@
+.box_1 {
+    background-color: green;
+    width: 100px;
+  }
+
+  .box_2 {
+    background-color: green;
+    width: 1in;
+  }
+  .box_3 {
+    background-color: green;
+    width: 3cm;
+  }
+  .box_4 {
+    background-color: green;
+    width: 30mm;
+  }
+  .box_5 {
+    background-color: green;
+    width: 100pt;
+  }
+  .box_6 {
+    background-color: green;
+    width: 10pc;
+  }
+
+  
+  div {
+    margin: 10px; /* Todos os Lados */
+    margin: 10px 5%; /* Vertical Horizontal */
+    margin: 10px 20px 30em; /* Top Horizontal Bottom */
+    margin: 10px 20px 30rem 40px; /* Top Direita Bottom Esquerda */
+
+    margin-left: 10px; /* Esquerda */
+    margin-right: 10px; /* Direita */
+    margin-top: 10px; /* Top */
+    margin-bottom: 10px; /* Bottom */
+}

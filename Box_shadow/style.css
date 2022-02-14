@@ -1,0 +1,10 @@
+div{
+    display: inline-block;
+    width: 150px;
+    padding: 20px 30px 20px 30px;
+    margin: 10px 0 0 20px;
+    background-color: #398bde;
+    border: 2px dashed white;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 4px 3px 3px #397bde;
+}
